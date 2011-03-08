@@ -12,6 +12,10 @@
 
 class Stopwatch
 
+  def initialize
+    super
+  end
+
   def start
     @t1 = Time.now
   end
