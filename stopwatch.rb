@@ -3,10 +3,7 @@
 
     Based on Corey Goldberg's StopWatch.java (http://www.goldb.org/stopwatchjava.html).
 
-    Stopwatch.rb is free software; you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation; either version 2 of the License, or (at
-    your option) any later version.
+    Stopwatch.rb is free software under the BSD license.
 
 =end
 
